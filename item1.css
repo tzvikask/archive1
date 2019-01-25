@@ -1,0 +1,28 @@
+body {
+    background-color: lightgrey;
+}
+
+h1 {
+    text-align: right;
+    color: purple;
+    margin-right: 65px;
+}
+
+div.img {
+    display: flex;
+    justify-content: center;
+}
+
+div.text {
+    direction: rtl;
+    text-align: center;
+    margin-left: 550px;
+    margin-right: 550px;
+    font-size: 14pt;
+}
+
+div.link {
+    font-size: 13.8pt;
+    padding-top: 150px;
+    margin-left: 65px;
+}

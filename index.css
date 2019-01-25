@@ -1,0 +1,18 @@
+body {
+    background-image: url(1.jpg);
+}
+
+p {
+    color: white;
+    font-size: 85px;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 305px;
+}
+
+div.link {
+    text-align: center; 
+    font-size: 35px; 
+    color: black;
+    padding-bottom: 100px;
+}
